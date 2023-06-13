@@ -52,7 +52,7 @@
 
 
 ## Output:
-![img](exp1_empd.png)
+![img](empd1.png)
 
 ### Name: SATHISH R
 ### Register Number: 212222100048
